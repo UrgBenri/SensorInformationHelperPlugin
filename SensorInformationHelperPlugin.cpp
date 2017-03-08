@@ -81,7 +81,6 @@ SensorInformationHelperPlugin::SensorInformationHelperPlugin(QWidget* parent)
 
 SensorInformationHelperPlugin::~SensorInformationHelperPlugin()
 {
-    qDebug() << "SensorInformationHelperPlugin::~SensorInformationHelperPlugin";
     delete ui;
 }
 
