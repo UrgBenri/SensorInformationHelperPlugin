@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/SensorInformationHelperPlugin">
+        <file alias="tabIcon">img/info.png</file>
+        <file alias="ubg-04lx-f01">img/ubg-04lx-f01.png</file>
+        <file alias="urg-04lx">img/urg-04lx.png</file>
+        <file alias="urg-04lx-ug01">img/urg-04lx-ug01.png</file>
+        <file alias="utm-30lx">img/utm-30lx.png</file>
+        <file alias="utm-30lx-ew">img/utm-30lx-ew.png</file>
+        <file alias="uxm-30lx-ew">img/uxm-30lx-ew.png</file>
+        <file alias="unknown">img/unknown.png</file>
+        <file alias="plugin.en">i18n/plugin_en.qm</file>
+        <file alias="plugin.fr">i18n/plugin_fr.qm</file>
+        <file alias="plugin.ja">i18n/plugin_ja.qm</file>
+    </qresource>
+</RCC>
