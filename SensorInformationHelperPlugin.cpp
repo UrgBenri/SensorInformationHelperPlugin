@@ -30,6 +30,7 @@
 #include <QUrl>
 #include <QDebug>
 #include <QDateTime>
+#include <QAction>
 
 using namespace std;
 
